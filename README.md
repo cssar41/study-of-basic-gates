@@ -77,9 +77,7 @@ module gates_exp1(a, b, c, d, e, x, y, z);
   assign z = ~(a ^ b); // XNOR gate
 
 endmodule
-
 ```
-
 Developed by: Saravanan C
 
 Register Number : 212222110041
