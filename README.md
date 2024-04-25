@@ -81,6 +81,7 @@ endmodule
 ```
 
 Developed by: Saravanan C
+
 Register Number : 212222110041
 
 # Logic symbol & Truthtable:
